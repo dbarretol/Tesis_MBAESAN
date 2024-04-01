@@ -1,9 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2024-04-01T21:56:15.183Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.2.1" etag="QxAR4XoIm82mYKRr8eP0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-01T22:07:22.778Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Yb2ydBJpqhb3NcxsW9H9" version="24.2.1" type="github">
   <diagram name="Página-1" id="gVBhoA8pPR8huvQvKDml">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="I8efuijmJ4XrfHdU1WwF-14" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="I8efuijmJ4XrfHdU1WwF-2" target="I8efuijmJ4XrfHdU1WwF-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I8efuijmJ4XrfHdU1WwF-2" value="ALICIA - SL - {offshore}.txt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I8efuijmJ4XrfHdU1WwF-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="I8efuijmJ4XrfHdU1WwF-3" target="I8efuijmJ4XrfHdU1WwF-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I8efuijmJ4XrfHdU1WwF-3" value="ALICIA - SL - {costa afuera}.txt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="90" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I8efuijmJ4XrfHdU1WwF-16" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="I8efuijmJ4XrfHdU1WwF-4" target="I8efuijmJ4XrfHdU1WwF-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I8efuijmJ4XrfHdU1WwF-4" value="RENATI - SL - {offshore}.txt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="170" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I8efuijmJ4XrfHdU1WwF-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="I8efuijmJ4XrfHdU1WwF-5" target="I8efuijmJ4XrfHdU1WwF-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I8efuijmJ4XrfHdU1WwF-5" value="RENATI - SL - {costa afuera}.txt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I8efuijmJ4XrfHdU1WwF-8" value="ALICIA_getUrlList.js" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/file-names-26/512/27-128.png" vertex="1" parent="1">
+          <mxGeometry x="206" y="51" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="I8efuijmJ4XrfHdU1WwF-9" value="RENATI_getUrlList.js" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/file-names-26/512/27-128.png" vertex="1" parent="1">
+          <mxGeometry x="206" y="180" width="70" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
